@@ -2,6 +2,8 @@
 
 QRCodeReader is a Python script that utilizes OpenCV and PyZbar to scan images for QR codes and display the decoded data.
 
+![QRCodeReader](https://raw.githubusercontent.com/adil6572/small-opencv-project/master/QRCodeReader/thumbnail.png))
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -40,7 +42,6 @@ Feel free to customize the `image_list` variable with the paths to your specific
     git clone https://github.com/adil6572/small-opencv-project.git
     cd small-opencv-project/QRCodeReader
    ```
-
 
 2. Install the required dependencies:
 
